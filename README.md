@@ -6,7 +6,7 @@ Gere anúncios de alta performance em segundos com o poder da Inteligência Arti
 
 Impulso Criativo IA é um **Micro-SaaS** desenvolvido para ajudar donos de e-commerce, gestores de tráfego e agências a otimizar a criação de campanhas de marketing digital. Utilizando IA generativa, facilite seu trabalho e alcance resultados surpreendentes!
 
-🔗 [Acesse a versão ao vivo](https://bersou.github.io/impulso-criativo-ia/)
+🔗 [Acesse a versão ao vivo](https://bersou.github.io/Impulso-Criativo-I.A/)
 
 ---
 
